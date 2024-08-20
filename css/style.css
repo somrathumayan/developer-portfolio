@@ -28,7 +28,7 @@ section{
 .welcome{
     background-image: url("/img/exp-bg.png");
     background-repeat: no-repeat;
-    background-size: 25px;
+    background-size: 80px;
 }
 
 
@@ -43,7 +43,7 @@ section{
     /* margin: 20px; */
   }
   .custom-btn {
-    width: 130px;
+    width: 150px;
     height: 40px;
     color: #fff;
     border-radius: 5px;
@@ -139,3 +139,48 @@ section{
   
 
 /* button end  */
+
+
+.dream{
+    background-image: url("/img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-position: right;
+}
+
+
+/* experience-area */
+
+.single-experience{
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 5px;
+  height: 50%;
+}
+
+.experience-area{
+  background-image: url("/img/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 80px;
+  
+  
+}
+
+#full-stack{
+  border-left: 7px solid;
+  border-image: linear-gradient(lightSalmon, tomato);
+  border-image-slice: 1;
+}
+
+#baby-dev{
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+/* experience-area */
+
+/* footer area  */
+footer p{
+  text-align: center;
+}
+/* footer area  */
