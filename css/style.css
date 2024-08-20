@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    font-family: "Kanit", sans-serif;
+    font-style: normal;
 }
 h2{
     font-size: 35px;
@@ -154,7 +156,7 @@ section{
 .single-experience{
   box-shadow: 10px 10px 40px grey;
   border-radius: 5px;
-  height: 50%;
+  height: 60%;
 }
 
 .experience-area{
