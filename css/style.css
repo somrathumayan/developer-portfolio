@@ -185,5 +185,6 @@ section{
 footer p{
   text-align: center;
     clear: both;
+    display: block;
 }
 /* footer area  */
